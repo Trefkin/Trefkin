@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazardinyo&label=Profile%20views&color=0e75b6&style=flat" alt="hazardinyo" /> </p>
 
-- 🔭 I’m currently working on **My Trainig Center web site**
+- 🔭 I’m currently working on **BIDA**
 
 - 💬 Ask me about **Next.js**
 
